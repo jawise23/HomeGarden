@@ -1,0 +1,10 @@
+# GPIO Interface
+RPi.GPIO>=0.7.0
+
+# DHT22 Sensor Interface
+adafruit-circuitpython-dht>=3.5.1
+libgpiod2>=1.6.3
+
+# Data Handling and Utilities
+pandas>=1.1.0
+numpy>=1.19.1
